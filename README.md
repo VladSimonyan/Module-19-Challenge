@@ -2,6 +2,9 @@
 
 In this project the user is able tp create notes or snippets with and without internet connection.  
 The user can see that IndexDB has immediately created a database storage and the user can succesfully retrieve for later use.
+When closing the application, on return, the user can see that the text-editor has been retrived from IndexDB.
+Also when a service worker is registered the users tatic assets pre cached upon loading along with subsequent pages and static assets
+
 
 
 ![Screenshot](https://github.com/VladSimonyan/Module-19-Challenge/assets/129136870/4427323e-15ed-4eec-8ec7-f56d9eb32cc3)
