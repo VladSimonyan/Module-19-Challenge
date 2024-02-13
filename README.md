@@ -1,9 +1,10 @@
 # Module-19-Challenge-Text-Editor
 
-In this project the user is able tp create notes or snippets with and without internet connection.
+In this project the user is able tp create notes or snippets with and without internet connection.  
+The user can see that IndexDB has immediately created a database storage and the user can succesfully retrieve for later use.
 
 
-
+![Screenshot](https://github.com/VladSimonyan/Module-19-Challenge/assets/129136870/4427323e-15ed-4eec-8ec7-f56d9eb32cc3)
 
 
 # User Story
